@@ -29,7 +29,7 @@ Pandas - pandas is an open source, BSD-licensed library providing high-performan
 etc
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Acknowledgments
 Sumit Khopkar
